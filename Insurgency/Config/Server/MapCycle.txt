@@ -7,4 +7,3 @@ Scenario_Summit_CS_Operation_Security
 Scenario_Summit_CS_Checkpoint_Security_B
 Scenario_Refinery_CS_Operation_Security
 Scenario_Refinery_CS_Survival
-(Scenario="Scenario_der_Riese_CP_Sec",Mode="Checkpoint",Lighting="Day")
